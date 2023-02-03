@@ -1,0 +1,281 @@
+Charge_ID,Charge,First_Name,Last_Name,Date,City,State,Gender
+Arson0,Arson,Paul,Hill,Sept. 15,Carrollton,Ala.,male
+Arson1,Arson,Paul,Archer,Sept. 15,Carrollton,Ala.,male
+Arson2,Arson,William,Archer,Sept. 15,Carrollton,Ala.,male
+Arson3,Arson,Emma,Fair,Sept. 15,Carrollton,Ala.,female
+Suspected robbery4,Suspected robbery,unknown,unknown,Dec. 23,Fannin,Miss.,","
+Assault5,Assault,Calvin,Thomas,Dec. 25,near Brainbridge,Ga.,male
+Attempted assault6,Attempted assault,Tillman,Green,Dec. 28,Columbia,La.,male
+Incendiarism7,Incendiarism,Patrick,Wells,Jan. 26,Quincy,Fla.,male
+Incendiarism8,Incendiarism,Frank,Harrell,Feb. 9,Dickery,Miss.,male
+Incendiarism9,Incendiarism,William,Filder,Feb. 9,Dickery,Miss.,male
+Attempted rape10,Attempted rape,Richard,Mays,Feb. 21,Springville,Mo.,male
+Attempted rape11,Attempted rape,Dug,Hazleton,Aug. 14,Carrollton,Ga.,unknown
+Attempted rape12,Attempted rape,Judge,McNeil,Sept. 1,Cadiz,Ky.,male
+Attempted rape13,Attempted rape,Frank,Smith,Sept. 11,Newton,Miss.,male
+Attempted rape14,Attempted rape,William,Jackson,Sept. 16,Nevada,Mo.,male
+Attempted rape15,Attempted rape,Riley,Gulley,Sept. 19,Pine Apple,Ala.,unknown
+Attempted rape16,Attempted rape,John,Davis,Oct. 9,Shorterville,Ala.,male
+Attempted rape17,Attempted rape,Robert,Kennedy,Nov. 8,Spartansburg,S.C.,male
+Burglary18,Burglary,Richard,Forman,Feb. 16,Granada,Miss.,male
+Wife beating19,Wife beating,David,Jackson,Oct. 14,Covington,La.,male
+Attempted murder20,Attempted murder,Thomas,Smith,Sept. 21,Roanoke,Va.,male
+Attempted robbery21,Attempted robbery,unknown,unknown,Dec. 12,near Selma,Ala.,","
+Race prejudice22,Race prejudice,Thomas,Carr,Jan. 30,Kosciusko,Miss.,male
+Race prejudice23,Race prejudice,William,Butler,Feb. 7,Hickory Creek,Texas,male
+Race prejudice24,Race prejudice,Charles,Tart,Aug. 27,Lyons Station,Miss.,male
+Race prejudice25,Race prejudice,Robert,Greenwood,Dec. 7,Cross county,Ark.,male
+Race prejudice26,Race prejudice,Allen,Butler,July 14,Lawrenceville,Ill.,male
+Thieves27,Thieves,unknown,unknown,Oct. 24,Knox Point,La.,","
+Alleged barn burning28,Alleged barn burning,Edward,Wagner,Nov. 4,Lynchburg,Va.,male
+Alleged barn burning29,Alleged barn burning,William,Wagner,Nov. 4,Lynchburg,Va.,male
+Alleged barn burning30,Alleged barn burning,Samuel,Motlow,Nov. 4,Lynchburg,Va.,male
+Alleged barn burning31,Alleged barn burning,Eliza,Motlow,Nov. 4,Lynchburg,Va.,female
+Alleged murder32,Alleged murder,Robert,Landry,Jan. 21,St. James Parish,La.,male
+Alleged murder33,Alleged murder,Chicken,George,Jan. 21,St. James Parish,La.,unknown
+Alleged murder34,Alleged murder,Richard,Davis,Jan. 21,St. James Parish,La.,male
+Alleged murder35,Alleged murder,Benjamin,Menter,Dec. 8,Berlin,Ala.,male
+Alleged murder36,Alleged murder,Robert,Wilkins,Dec. 8,Berlin,Ala.,male
+Alleged murder37,Alleged murder,Joseph,Gevhens,Dec. 8,Berlin,Ala.,male
+Alleged complicity in murder38,Alleged complicity in murder,Valsin,Julian,Sept. 16,Jefferson Parish,La.,unknown
+Alleged complicity in murder39,Alleged complicity in murder,Basil,Julian,Sept. 16,Jefferson Parish,La.,male
+Alleged complicity in murder40,Alleged complicity in murder,Paul,Julian,Sept. 16,Jefferson Parish,La.,male
+Alleged complicity in murder41,Alleged complicity in murder,John,Willis,Sept. 16,Jefferson Parish,La.,male
+Murder42,Murder,Samuel,Thorp,June 29,Savannah,Ga.,male
+Murder43,Murder,George,Riechen,June 29,Waynesboro,Ga.,male
+Murder44,Murder,Joseph,Bird,June 30,Wilberton,I.T.,male
+Murder45,Murder,James,Lamar,July 1,Darien,Ga.,male
+Murder46,Murder,Henry,Miller,July 28,Dallas,Texas,male
+Murder47,Murder,Ada,Hiers,July 28,Walterboro,S.C.,female
+Murder48,Murder,Alexander,Brown,July 28,Bastrop,Texas,male
+Murder49,Murder,W.G.,Jamison,July 30,Quincy,Ill.,unknown
+Murder50,Murder,John,Ferguson,Sept. 1,Lawrens,S.C.,male
+Murder51,Murder,Oscar,Johnston,Sept. 1,Berkeley,S.C.,male
+Murder52,Murder,Henry,Ewing,Sept. 1,Berkeley,S.C.,male
+Murder53,Murder,William,Smith,Sept. 8,Camden,Ark.,male
+Murder54,Murder,Staples,Green,Sept. 15,Livingston,Ala.,unknown
+Murder55,Murder,Hiram,Jacobs,Sept. 29,Mount Vernon,Ga.,male
+Murder56,Murder,Lucien,Mannet,Sept. 29,Mount Vernon,Ga.,male
+Murder57,Murder,Hire,Bevington,Sept. 29,Mount Vernon,Ga.,unknown
+Murder58,Murder,Weldon,Gordon,Sept. 29,Mount Vernon,Ga.,male
+Murder59,Murder,Parse,Strickland,Sept. 29,Mount Vernon,Ga.,unknown
+Murder60,Murder,William,Dalton,Oct. 20,Cartersville,Ga.,male
+Murder61,Murder,M.B.,Taylor,Oct. 27,Wise Court House,Va.,unknown
+Murder62,Murder,Isaac,Williams,Oct. 27,Madison,Ga.,male
+Murder63,Murder,Miller,Davis,Nov. 10,Center Point,Ark.,unknown
+Murder64,Murder,John,Johnston,Nov. 14,Auburn,N.Y.,male
+Murder65,Murder,Calvin,Stewart,Sept. 27,Langley,S.C.,male
+Murder66,Murder,Henry,Coleman,Sept. 29,Denton,La.,male
+Murder67,Murder,William,Richards,Oct. 18,Summerfield,Ga.,male
+Murder68,Murder,James,Dickson,Oct. 18,Summerfield,Ga.,male
+Murder69,Murder,Edward,Jenkins,Oct. 27,Clayton county,Ga.,male
+Murder70,Murder,Henry,Boggs,Nov. 9,Fort White,Fla.,male
+Murder71,Murder,unknown,unknown,Nov. 14,Lake City Junction,Fla.,","
+Murder72,Murder,D.T.,Nelson,Nov. 14,Varney,Ark.,unknown
+Murder73,Murder,Newton,Jones,Nov. 29,Baxley,Ga.,male
+Murder74,Murder,Lucius,Holt,Dec. 2,Concord,Ga.,male
+Murder75,Murder,unknown,unknown,Dec. 10,Richmond,Ala.,","
+Murder76,Murder,Henry,Fleming,July 12,Columbus,Miss.,male
+Murder77,Murder,unknown,unknown,July 17,Briar Field,Ala.,","
+Murder78,Murder,Henry,Reynolds,Aug. 1,Montgomery,Tenn.,male
+Murder79,Murder,unknown,unknown,Aug. 9,McCreery,Ark.,","
+Murder80,Murder,unknown,unknown,Aug. 12,Brantford,Fla.,","
+Murder81,Murder,Charles,Walton,Aug. 18,Morganfield,Ky,male
+Murder82,Murder,Charles,Tait,Aug. 21,near Memphis,Tenn.,male
+Murder83,Murder,Leonard,Taylor,Aug. 28,New Castle,Ky,male
+Murder84,Murder,Benjamin,Jackson,Sept. 8,Quincy,Miss.,male
+Murder85,Murder,John,Williams,Sept. 14,Jackson,Tenn.,male
+Self-defense86,Self-defense,unknown,unknown,July 30,Wingo,Ky.,","
+Poisoning wells87,Poisoning wells,unknown,unknown,Aug. 18,Franklin Parish,La.,","
+Alleged well poisoning88,Alleged well poisoning,Benjamin,Jackson,Sept. 15,Jackson,Miss.,male
+Alleged well poisoning89,Alleged well poisoning,Mahala,Jackson,Sept. 15,Jackson,Miss.,female
+Alleged well poisoning90,Alleged well poisoning,Louisa,Carter,Sept. 15,Jackson,Miss.,female
+Alleged well poisoning91,Alleged well poisoning,W.A.,Haley,Sept. 15,Jackson,Miss.,unknown
+Alleged well poisoning92,Alleged well poisoning,Rufus,Bigley,Sept. 16,Jackson,Miss.,male
+Insulting whites93,Insulting whites,John,Hughes,Feb. 18,Moberly,Mo.,male
+Insulting whites94,Insulting whites,Isaac,Lincoln,June 2,Fort Madison,S.C.,male
+Murderous assault95,Murderous assault,Daniel,Adams,April 20,Selina,Kan.,male
+No offense96,No offense,Charles,Martin,July 21,Shelby Co.,Tenn.,male
+No offense97,No offense,William,Steen,July 30,Paris,Miss.,male
+No offense98,No offense,unknown,unknown,Aug. 31,Yarborough,Tex.,","
+No offense99,No offense,unknown,unknown,Sept. 30,Houston,Tex.,","
+No offense100,No offense,Mack,Segars,Dec. 28,Brantley,Ala.,male
+Alleged rape101,Alleged rape,Charles,Miller,July 7,Bardwell,Ky.,male
+Alleged rape102,Alleged rape,Daniel,Lewis,Aug. 10,Waycross,Ga.,male
+Alleged rape103,Alleged rape,James,Taylor,Aug. 10,Waycross,Ga.,male
+Alleged rape104,Alleged rape,John,Chambers,Aug. 10,Waycross,Ga.,male
+Alleged stock poisoning105,Alleged stock poisoning,Henry,Givens,Dec. 16,Nebro,Ky.,male
+Suspected murder106,Suspected murder,Sloan,Allen,Dec. 23,West Mississippi.,unknown,unknown
+Suspicion of rape107,Suspicion of rape,Andy,Blount,Feb. 14,Chattanooga,Tenn.,unknown
+Turning state's evidence108,Turning state's evidence,William,Ferguson,Dec. 19,Adele,Ga.,male
+Rape109,Rape,James,Williams,Jan. 19,Pickens Co.,Ala.,male
+Rape110,Rape,unknown,unknown,Feb. 11,Forest Hill,Tenn.,","
+Rape111,Rape,Abner,Anthony,Nov. 1,Hot Springs,Va.,male
+Rape112,Rape,Thomas,Hill,Nov. 1,Spring Place,Ga.,male
+Rape113,Rape,John,Peterson,April 24,Denmark,S.C.,male
+Rape114,Rape,Samuel,Gaillard,May 6,——,S.C.,male
+Rape115,Rape,Israel,Halliway,May 12,Napoleonville,La.,unknown
+Rape116,Rape,unknown,unknown,May 12,Wytheville,Va.,","
+Rape117,Rape,John,Wallace,May 31,Jefferson Springs,Ark.,male
+Rape118,Rape,Samuel,Bush,June 3,Decatur,Ill.,male
+Rape119,Rape,L.C.,Dumas,June 8,Gleason,Tenn.,unknown
+Rape120,Rape,William,Shorter,June 13,Winchester,Va.,male
+Rape121,Rape,George,Williams,June 14,near Waco,Tex.,male
+Rape122,Rape,Daniel,Edwards,June 24,Selina or Selma,Ala.,male
+Rape123,Rape,Ernest,Murphy,June 27,Daleville,Ala.,male
+Rape124,Rape,unknown,unknown,July 6,Poplar Head,La.,","
+Rape125,Rape,unknown,unknown,July 6,Poplar Head,La.,","
+Rape126,Rape,Robert,Larkin,July 12,Oscola,Tex.,male
+Rape127,Rape,Warren,Dean,July 17,Stone Creek,Ga.,male
+Rape128,Rape,unknown,unknown,July 21,Brantford,Fla.,","
+Rape129,Rape,John,Cotton,July 17,Connersville,Ark.,male
+Rape130,Rape,Lee,Walker,July 22,New Albany,Miss.,unknown
+Rape131,Rape,——,Handy,July 26,Suansea,S.C.,","
+Rape132,Rape,William,Thompson,July 30,Columbia,S.C.,male
+Rape133,Rape,Isaac,Harper,July 28,Calera,Ala.,male
+Rape134,Rape,Thomas,Preston,July 30,Columbia,S.C.,male
+Rape135,Rape,Handy,Kaigler,July 30,Columbia,S.C.,male
+Rape136,Rape,Monroe,Smith,Aug. 13,Springfield,Ala.,unknown
+Rape137,Rape,unknown,unknown,Aug. 19,near Paducah,Ky.,","
+Rape138,Rape,John,Nilson,Aug. 21,near Leavenworth,Kan.,male
+Rape139,Rape,Jacob,Davis,Aug. 23,Green Wood,S.C.,male
+Rape140,Rape,William,Arkinson,Sept. 2,McKenney,Ky.,male
+Rape141,Rape,unknown,unknown,Sept. 16,Centerville,Ala.,","
+Rape142,Rape,Jessie,Mitchell,Sept. 16,Amelia C.H.,Va.,unknown
+Rape143,Rape,Perry,Bratcher,Sept. 25,New Boston,Tex.,unknown
+Rape144,Rape,William,Lacey,Oct. 9,Jasper,Ala.,male
+Rape145,Rape,John,Gamble,Oct. 22,Pikesville,Tenn.,male
+Murder146,Murder,Samuel,Smith,Jan. 9,Greenville,Ala.,male
+Murder147,Murder,Sherman,Wagoner,Jan. 11,Mitchell,Ind.,male
+Murder148,Murder,Roscoe,Parker,Jan. 12,West Union,Ohio,male
+Murder149,Murder,Henry,Bruce,Feb. 7,Gulch Co.,Ark.,male
+Murder150,Murder,Sylvester,Rhodes,March 5,Collins,Ga.,unknown
+Murder151,Murder,Richard,Puryea,March 15,Stroudsburg,Pa.,male
+Murder152,Murder,Oliver,Jackson,March 29,Montgomery,Ala.,male
+Murder153,Murder,Saybrick,Saybrick,March 30,Fisher's Ferry,Miss.,unknown
+Murder154,Murder,William,Lewis,April 14,Lanison,Ala.,male
+Murder155,Murder,Jefferson,Luggle,April 23,Cherokee,Kan.,male
+Murder156,Murder,Samuel,Slaugate,April 23,Tallulah,La.,male
+Murder157,Murder,Thomas,Claxton,April 23,Tallulah,La.,male
+Murder158,Murder,David,Hawkins,April 23,Tallulah,La.,male
+Murder159,Murder,Thel,Claxton,April 27,Tallulah,La.,male
+Murder160,Murder,Comp,Claxton,April 27,Tallulah,La.,unknown
+Murder161,Murder,Scot,Harvey,April 27,Tallulah,La.,male
+Murder162,Murder,Jerry,McCly,April 27,Tallulah,La.,unknown
+Murder163,Murder,Henry,Scott,May 17,Jefferson,Tex.,male
+Murder164,Murder,Coat,Williams,May 15,Pine Grove,Fla.,unknown
+Murder165,Murder,Jefferson,Crawford,June 2,Bethesda,S.C.,male
+Murder166,Murder,Thondo,Underwood,June 4,Monroe,La.,unknown
+Murder167,Murder,Isaac,Kemp,June 8,Cape Charles,Va.,male
+Murder168,Murder,Lon,Hall,June 13,Sweethouse,Tex.,male
+Murder169,Murder,Bascom,Cook,June 13,Sweethouse,Tex.,male
+Murder170,Murder,Luke,Thomas,June 15,Biloxi,Miss.,male
+Murder171,Murder,John,Williams,June 29,Sulphur,Tex.,male
+Murder172,Murder,Ulysses,Hayden,June 29,Monett,Mo.,male
+Murder173,Murder,——,Hood,July 6,Amite,Miss.,","
+Murder174,Murder,James,Bell,July 7,Charlotte,Tenn.,male
+Murder175,Murder,Henderson,Hollander,Sept. 2,Elkhorn,W. Va.,male
+Murder176,Murder,Robert,Williams,Sept. 14,Concordia Parish,La.,male
+Murder177,Murder,Luke,Washington,Sept. 22,Meghee,Ark.,male
+Murder178,Murder,Richard,Washington,Sept. 22,Meghee,Ark.,male
+Murder179,Murder,Henry,Crobyson,Sept. 22,Meghee,Ark.,male
+Murder180,Murder,Lawrence,Younger,Nov. 10,Lloyd,Va.,male
+Murder181,Murder,unknown,unknown,Dec. 17,Williamston,S.C.,","
+Murder182,Murder,Samuel,Taylor,Dec. 23,Brooks County,Ga.,male
+Murder183,Murder,Charles,Frazier,Dec. 23,Brooks County,Ga.,male
+Murder184,Murder,Samuel,Pike,Dec. 23,Brooks County,Ga.,male
+Murder185,Murder,Harry,Sherard,Dec. 22,Brooks County,Ga.,male
+Murder186,Murder,unknown,unknown,Dec. 23,Brooks County,Ga.,","
+Murder187,Murder,unknown,unknown,Dec. 23,Brooks County,Ga.,","
+Murder188,Murder,unknown,unknown,Dec. 23,Brooks County,Ga.,","
+Murder189,Murder,Daniel,McDonald,Dec. 26,Winston County,Miss.,male
+Murder190,Murder,William,Carter,Dec. 23,Winston County,Miss.,male
+Rape191,Rape,John,Buckner,Jan. 17,Valley Park,Mo.,male
+Rape192,Rape,M.G.,Cambell,Jan. 21,Jellico Mines,Ky.,unknown
+Rape193,Rape,unknown,unknown,Jan. 27,Verona,Mo.,","
+Rape194,Rape,Henry,McCreeg,Feb. 11,near Pioneer,Tenn.,male
+Rape195,Rape,Daniel,Ahren,April 6,Greensboro,Ga.,male
+Rape196,Rape,Seymour,Newland,April 15,Rushsylvania,Ohio,male
+Rape197,Rape,Robert,Evarts,April 26,Jamaica,Ga.,male
+Rape198,Rape,James,Robinson,April 27,Manassas,Va.,male
+Rape199,Rape,Benjamin,White,April 27,Manassas,Va.,male
+Rape200,Rape,Nim,Young,May 15,Ocala,Fla.,male
+Rape201,Rape,unknown,unknown,May 22,Miller County,Ga.,","
+Rape202,Rape,unknown,unknown,June 13,Blackshear,Ga.,","
+Rape203,Rape,Owen,Opliltree,June 18,Forsyth,Ga.,male
+Rape204,Rape,Henry,Capus,June 22,Magnolia,Ark.,male
+Rape205,Rape,Caleb,Godly,June 26,Bowling Green,Ky.,male
+Rape206,Rape,Fayette,Franklin,June 28,Mitchell,Ga.,unknown
+Rape207,Rape,Joseph,Johnson,July 2,Hiller's Creek,Mo.,male
+Rape208,Rape,Lewis,Bankhead,July 6,Cooper,Ala.,male
+Rape209,Rape,Marion,Howard,July 16,Scottsville,Ky.,unknown
+Rape210,Rape,William,Griffith,July 20,Woodville,Tex.,male
+Rape211,Rape,William,Nershbread,Aug. 12,Rossville,Tenn.,male
+Rape212,Rape,Marshall,Boston,Aug. 14,Frankfort,Ky,unknown
+Rape213,Rape,David,Gooseby,Sept. 19,Atlanta,Ga.,male
+Rape214,Rape,Willis,Griffey,Oct. 15,Princeton,Ky,unknown
+Rape215,Rape,Lee,Lawrence,Nov. 8,Jasper County,Ga.,unknown
+Rape216,Rape,Needham,Smith,Nov. 10,Tipton County,Tenn.,male
+Rape217,Rape,Robert,Mosely,Nov. 14,Dolinite,Ala.,male
+Rape218,Rape,William,Jackson,Dec. 4,Ocala,Fla.,male
+Rape219,Rape,unknown,unknown,Dec. 18,Marion County,Fla.,","
+Unknown offenses220,Unknown offenses,Lamsen,Gregory,March 6,Bell's Depot,Tenn.,unknown
+Unknown offenses221,Unknown offenses,unknown,unknown,March 6,near Marche,Ark.,","
+Unknown offenses222,Unknown offenses,Alfred,Brenn,April 14,Calhoun,Ga.,male
+Unknown offenses223,Unknown offenses,Harry,Gill,June 8,West Lancaster,S.C.,male
+Unknown offenses224,Unknown offenses,unknown,unknown,Nov. 23,Landrum,S.C.,","
+Unknown offenses225,Unknown offenses,Mrs.,Arthur,Dec. 5,Lincoln County,W. Va.,unknown
+Desperado226,Desperado,Charles,Willis,Jan. 14,Ocala,Fla.,male
+Suspected incendiarism227,Suspected incendiarism,unknown,unknown,Jan. 18,Bayou Sarah,La.,","
+Suspected arson228,Suspected arson,J.H.,Dave,June 14,Monroe,La.,unknown
+Enticing servant away229,Enticing servant away,——,Collins,Feb. 10,Athens,Ga.,","
+Train wrecking230,Train wrecking,Jesse,Dillingham,Feb. 10,Smokeyville,Tex.,unknown
+Highway robbery231,Highway robbery,unknown,unknown,June 3,Dublin,Ga.,","
+Incendiarism232,Incendiarism,Gabe,Nalls,Nov. 8,Blackford,Ky.,male
+Incendiarism233,Incendiarism,Ulysses,Nails,Nov. 8,Blackford,Ky.,male
+Arson234,Arson,James,Allen,Dec. 20,Brownsville,Tex.,male
+Assault235,Assault,George,King,Dec. 23,New Orleans,La.,male
+No offense236,No offense,Scott,Sherman,Dec. 28,Morehouse Parish,La.,male
+Burglary237,Burglary,Henry,Smith,May 29,Clinton,Miss.,male
+Burglary238,Burglary,William,James,May 29,Clinton,Miss.,male
+Alleged rape239,Alleged rape,Ready,Murdock,June 4,Yazoo,Miss.,unknown
+Attempted rape240,Attempted rape,unknown,unknown,July 14,Biloxi,Miss.,","
+Attempted rape241,Attempted rape,Vance,McClure,July 26,New Iberia,La.,male
+Attempted rape242,Attempted rape,William,Tyler,July 26,Carlisle,Ky.,male
+Attempted rape243,Attempted rape,James,Smith,Sept. 14,Stark,Fla.,male
+Attempted rape244,Attempted rape,Henry,Gibson,Oct. 8,Fairfield,Tex.,male
+Attempted rape245,Attempted rape,——,Williams,Oct. 20,Upper Marlboro,Md.,","
+Attempted rape246,Attempted rape,Lewis,Williams,June 9,Hewett Springs,Miss.,male
+Attempted rape247,Attempted rape,George,Linton,June 28,Brookhaven,Miss.,male
+Attempted rape248,Attempted rape,Edward,White,June 28,Hudson,Ala.,male
+Attempted rape249,Attempted rape,George,Pond,July 6,Fulton,Miss.,male
+Attempted rape250,Attempted rape,Augustus,Pond,July 7,Tupelo,Miss.,male
+Race prejudice251,Race prejudice,Mark,Jacobs,June 10,Bienville,La.,male
+Race prejudice252,Race prejudice,unknown,unknown,July 24,Sampson County,Miss.,","
+Introducing smallpox253,Introducing smallpox,James,Perry,June 10,Knoxville,Ark.,male
+Kidnapping254,Kidnapping,Lentige,Lentige,March 2,Harland County,Ky.,unknown
+Conspiracy255,Conspiracy,J.T.,Burgis,May 29,Palatka,Fla.,unknown
+Horse stealing256,Horse stealing,Archie,Haynes,June 20,Mason County,Ky.,unknown
+Horse stealing257,Horse stealing,Burt,Haynes,June 20,Mason County,Ky.,male
+Horse stealing258,Horse stealing,William,Haynes,June 20,Mason County,Ky.,male
+Writing letter to white woman259,Writing letter to white woman,unknown,unknown,May 9,West Texas.,unknown,","
+Giving information260,Giving information,James,Nelson,July 12,Abbeyville,S.C.,male
+Stealing261,Stealing,Alfred,Davis,Jan. 5,Live Oak County,Ark.,male
+Larceny262,Larceny,Henry,Montgomery,April 18,Lewisburg,Tenn.,male
+Political causes263,Political causes,John,Brownlee,July 19,Oxford,Ala.,male
+Conjuring264,Conjuring,Allen,Myers,July 20,Rankin County,Miss.,male
+Attempted murder265,Attempted murder,Frank,Ballard,June 1,Jackson,Tenn.,male
+Alleged murder266,Alleged murder,unknown,unknown,April 5,near Selma,Ala.,","
+Alleged murder267,Alleged murder,unknown,unknown,April 5,near Selma,Ala.,","
+Without cause268,Without cause,Samuel,Wood,May 17,Gates City,Va.,male
+Barn burning269,Barn burning,Thomas,Black,April 22,Tuscumbia,Ala.,male
+Barn burning270,Barn burning,John,Williams,April 22,Tuscumbia,Ala.,male
+Barn burning271,Barn burning,Toney,Johnson,April 22,Tuscumbia,Ala.,unknown
+Barn burning272,Barn burning,William,Bell,July 14,Dixon,Tenn.,male
+Barn burning273,Barn burning,Daniel,Hawkins,Sept. 1,Millington,Tenn.,male
+Barn burning274,Barn burning,Robert,Haynes,Sept. 1,Millington,Tenn.,male
+Barn burning275,Barn burning,Warner,Williams,Sept. 1,Millington,Tenn.,male
+Barn burning276,Barn burning,Edward,Hall,Sept. 1,Millington,Tenn.,male
+Barn burning277,Barn burning,John,Haynes,Sept. 1,Millington,Tenn.,male
+Barn burning278,Barn burning,Graham,White,Sept. 1,Millington,Tenn.,male
+Asking white woman to marry him279,Asking white woman to marry him,William,Brooks,May 23,Galesline,Ark.,male
